@@ -1,0 +1,76 @@
+.container{
+    background-color: white;
+    min-height: 700px;
+    position: absolute;
+    margin-right:0%;
+    padding-right:0%;
+    /* border:3px;
+    border-style: solid;
+    border-color:#FCE205; */
+}
+#topNavBar{
+    /* border:3px;
+    border-style: solid;
+    border-color:#FCE205; */
+    font-size: 20px;
+    /* overflow: hidden; */
+    background-color: transparent;
+    
+}
+#topNavBar a:hover {
+    color: maroon;
+    text-decoration: none;
+  }
+ul{
+    list-style-type: none;
+    /* float: right; */
+}
+
+.logo{
+    vertical-align: middle;
+    height:100px;
+    width:100px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li {
+    display: inline;
+    padding-right: 50px;
+    /* float: right; */
+}
+.title{
+    padding-right: 500px;
+    font-size:30px;
+    /* float: left; */
+    font-weight: bolder;
+} 
+
+.addPlayer{
+    color: black;
+}
+.playerForm{
+    border: 5px;
+    border-style: solid;
+    margin-left:30%;
+    /* margin:auto; */
+    height: 600px;
+    width: 550px;
+    text-align: center;
+    justify-content: center;
+}
+.formLabel{
+    
+}
+#submit{
+    color: white;
+    background-color: maroon;
+    border-radius: 12px;
+}
+#submit:hover{
+    color: maroon;
+    background-color: white;
+    border-radius: 12px;
+    border-color: black;
+}

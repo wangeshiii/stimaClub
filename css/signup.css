@@ -1,0 +1,53 @@
+body{
+    height:700px;
+    background-image: url(../images/sign.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Fugaz One', cursive;
+}
+.registrationForm{
+    border: 5px;
+    border-style: solid;
+    margin:auto;
+    height: 600px;
+    width: 550px;
+    text-align: center;
+    justify-content: center;
+}
+.register{
+    margin-top:15%;
+    color: black;
+}
+#topNavBar{
+    /* border:3px;
+    border-style: solid;
+    border-color:#FCE205; */
+    font-size: 20px;
+}
+#topNavBar a:hover {
+    background-color: maroon;
+  }
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a{
+    text-decoration: none;
+    color: white;
+
+}
+li {
+    font-family: 'Fugaz One', cursive;
+    display: inline;
+    padding-right: 20px;
+}
+.title{
+    font-family: 'Monoton', cursive;
+    padding-right: 600px;
+    font-size:40px;
+}
+p a{
+    color: maroon;
+}
